@@ -1,2 +1,2 @@
 # Blog-Wars
-Can you keep you blog alive?
+Can you keep your blog alive?
